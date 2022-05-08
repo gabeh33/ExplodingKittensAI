@@ -71,13 +71,12 @@ Payton McAlice was responsible for the coded implementation of the game Explodin
 Gabe Holmes was responsible for the random agent as well as the non-random and smart agents. He also led the work on the Survival Agent.
 Exploding Kittens is a card game created by Elan Lee and Matt Inman.
 
-Reference Section
-2018, Radhika, et al. Reinforcement Learning for Exploding Kittens. Stanford University, 7 Dec. 2018.
-“How to Play Exploding Kittens.” Exploding Kittens, https://www.explodingkittens.com/pages/rules-kittens. Accessed 4 May 2022.
-“Microsoft’s Social Bot Zo Wants to Play Exploding Kittens with You - The AI Blog.” The AI Blog, https://www.facebook.com/microsoft, 13 Sept. 2017, https://blogs.microsoft.com/ai/microsofts-social-bot-zo-wants-play-exploding-kittens/.
-Ng, Andrew, et al. Policy Invariance under Reward Transformations: Theory and Application to Reward Shaping. University of California, Berkeley, 1999. Accessed 4 May 2022.
+### Reference Section
+2018, Radhika, et al. Reinforcement Learning for Exploding Kittens. Stanford University, 7 Dec. 2018. <br>
+“How to Play Exploding Kittens.” Exploding Kittens, https://www.explodingkittens.com/pages/rules-kittens. Accessed 4 May 2022. <br>
+“Microsoft’s Social Bot Zo Wants to Play Exploding Kittens with You - The AI Blog.” The AI Blog, https://www.facebook.com/microsoft, 13 Sept. 2017, https://blogs.microsoft.com/ai/microsofts-social-bot-zo-wants-play-exploding-kittens/. <br>
+Ng, Andrew, et al. Policy Invariance under Reward Transformations: Theory and Application to Reward Shaping. University of California, Berkeley, 1999. Accessed 4 May 2022. <br>
 
-Appendices
-Code will be attached via .zip file
+# Appendices
 Link to GitHub repository: https://github.com/gabeh33/kittens 
 
